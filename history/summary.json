@@ -19,8 +19,8 @@
     "name": "Strava App",
     "url": "https://strava.langton.dev",
     "slug": "strava-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 242
+    "time": 234
   }
 ]
