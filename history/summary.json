@@ -5,7 +5,7 @@
     "slug": "langton-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 245
+    "time": 264
   },
   {
     "name": "Commonplace Books",
@@ -13,7 +13,7 @@
     "slug": "commonplace-books",
     "status": "up",
     "uptime": "100.00%",
-    "time": 280
+    "time": 294
   },
   {
     "name": "Strava App",
@@ -21,6 +21,6 @@
     "slug": "strava-app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 238
+    "time": 247
   }
 ]
