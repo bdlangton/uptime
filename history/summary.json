@@ -35,9 +35,9 @@
     "name": "Jenkins",
     "url": "$SECRET_SITE_1",
     "slug": "jenkins",
-    "status": "down",
-    "uptime": "4.76%",
-    "time": 169
+    "status": "up",
+    "uptime": "0.90%",
+    "time": 235
   },
   {
     "name": "RabbitMQ",
