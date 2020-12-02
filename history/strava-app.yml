@@ -1,7 +1,7 @@
 url: https://strava.langton.dev  
-status: down
-code: 502
-responseTime: 183
-lastUpdated: 2020-12-02T19:42:01.215Z
+status: up
+code: 200
+responseTime: 223
+lastUpdated: 2020-12-02T19:48:14.138Z
 startTime: Thu Nov 26 2020 16:57:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
