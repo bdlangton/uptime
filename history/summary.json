@@ -3,64 +3,64 @@
     "name": "Langton.dev",
     "url": "https://langton.dev",
     "slug": "langton-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 265
+    "time": 260
   },
   {
     "name": "Commonplace Books",
     "url": "https://commonplace.langton.dev",
     "slug": "commonplace-books",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 280
+    "time": 273
   },
   {
     "name": "Strava App",
     "url": "https://strava.langton.dev",
     "slug": "strava-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 241
+    "time": 238
   },
   {
     "name": "Manhattan Rental Properties",
     "url": "https://manhattanrentalproperties.net",
     "slug": "manhattan-rental-properties",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 271
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 282
   },
   {
     "name": "Jenkins",
     "url": "$SECRET_SITE_1",
     "slug": "jenkins",
-    "status": "up",
-    "uptime": "89.77%",
-    "time": 225
+    "status": "down",
+    "uptime": "98.51%",
+    "time": 214
   },
   {
     "name": "RabbitMQ",
     "url": "$SECRET_SITE_2",
     "slug": "rabbit-mq",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 168
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 172
   },
   {
     "name": "NextCloud",
     "url": "$SECRET_SITE_3",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 337
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 287
   },
   {
     "name": "OnlyOffice",
     "url": "$SECRET_SITE_4",
     "slug": "only-office",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 234
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 227
   }
 ]
