@@ -5,7 +5,15 @@
     "slug": "langton-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 257
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 259,
+    "timeDay": 235,
+    "timeWeek": 259,
+    "timeMonth": 259,
+    "timeYear": 259
   },
   {
     "name": "Commonplace Books",
@@ -13,7 +21,15 @@
     "slug": "commonplace-books",
     "status": "up",
     "uptime": "100.00%",
-    "time": 270
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 277,
+    "timeDay": 264,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277
   },
   {
     "name": "Strava App",
@@ -21,7 +37,15 @@
     "slug": "strava-app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 237
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 241,
+    "timeDay": 240,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241
   },
   {
     "name": "Manhattan Rental Properties",
@@ -29,15 +53,31 @@
     "slug": "manhattan-rental-properties",
     "status": "up",
     "uptime": "100.00%",
-    "time": 272
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 284,
+    "timeDay": 293,
+    "timeWeek": 284,
+    "timeMonth": 284,
+    "timeYear": 284
   },
   {
     "name": "Jenkins",
     "url": "$SECRET_SITE_1",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "98.53%",
-    "time": 539
+    "uptime": "98.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 488,
+    "timeDay": 751,
+    "timeWeek": 488,
+    "timeMonth": 488,
+    "timeYear": 488
   },
   {
     "name": "RabbitMQ",
@@ -45,7 +85,15 @@
     "slug": "rabbit-mq",
     "status": "up",
     "uptime": "100.00%",
-    "time": 175
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 171,
+    "timeDay": 173,
+    "timeWeek": 171,
+    "timeMonth": 171,
+    "timeYear": 171
   },
   {
     "name": "NextCloud",
@@ -53,7 +101,15 @@
     "slug": "next-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 593
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 551,
+    "timeDay": 693,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551
   },
   {
     "name": "OnlyOffice",
@@ -61,6 +117,14 @@
     "slug": "only-office",
     "status": "up",
     "uptime": "100.00%",
-    "time": 228
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 246,
+    "timeDay": 255,
+    "timeWeek": 246,
+    "timeMonth": 246,
+    "timeYear": 246
   }
 ]
