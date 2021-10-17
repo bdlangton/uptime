@@ -16,10 +16,6 @@ sites:
     url: $SECRET_SITE_1
   - name: RabbitMQ
     url: $SECRET_SITE_2
-  - name: NextCloud
-    url: $SECRET_SITE_3
-  - name: OnlyOffice
-    url: $SECRET_SITE_4
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
