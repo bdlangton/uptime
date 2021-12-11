@@ -1,7 +1,7 @@
 url: https://commonplace.langton.dev
-status: up
-code: 200
-responseTime: 352
-lastUpdated: 2021-12-10T23:13:13.297Z
+status: down
+code: 500
+responseTime: 576
+lastUpdated: 2021-12-11T15:32:16.292Z
 startTime: Thu Nov 26 2020 16:57:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
