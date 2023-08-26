@@ -68,9 +68,9 @@
     "url": "https://manhattanrentalproperties.net",
     "icon": "https://icons.duckduckgo.com/ip3/manhattanrentalproperties.net.ico",
     "slug": "manhattan-rental-properties",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -80,6 +80,7 @@
     "timeMonth": 301,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2023-08-26": 0,
       "2022-11-23": 26,
       "2022-11-04": 177
     }
