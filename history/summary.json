@@ -4,11 +4,11 @@
     "url": "https://langton.dev",
     "icon": "https://icons.duckduckgo.com/ip3/langton.dev.ico",
     "slug": "langton-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 305,
     "timeDay": 269,
@@ -16,6 +16,7 @@
     "timeMonth": 290,
     "timeYear": 305,
     "dailyMinutesDown": {
+      "2023-10-28": 3,
       "2022-11-23": 27,
       "2022-11-16": 17,
       "2022-11-04": 178
@@ -26,11 +27,11 @@
     "url": "https://commonplace.langton.dev",
     "icon": "https://icons.duckduckgo.com/ip3/commonplace.langton.dev.ico",
     "slug": "commonplace-books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 316,
     "timeDay": 322,
@@ -38,6 +39,7 @@
     "timeMonth": 317,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2023-10-28": 2,
       "2022-11-23": 27,
       "2022-11-04": 178
     }
@@ -47,10 +49,10 @@
     "url": "https://strava.langton.dev",
     "icon": "https://icons.duckduckgo.com/ip3/strava.langton.dev.ico",
     "slug": "strava-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 257,
@@ -59,6 +61,7 @@
     "timeMonth": 232,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2023-10-28": 2,
       "2022-11-23": 26,
       "2022-11-04": 177
     }
@@ -68,10 +71,10 @@
     "url": "https://manhattanrentalproperties.net",
     "icon": "https://icons.duckduckgo.com/ip3/manhattanrentalproperties.net.ico",
     "slug": "manhattan-rental-properties",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 274,
@@ -80,6 +83,7 @@
     "timeMonth": 279,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2023-10-28": 1,
       "2023-08-26": 17,
       "2022-11-23": 26,
       "2022-11-04": 177
@@ -90,10 +94,10 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 239,
@@ -102,6 +106,7 @@
     "timeMonth": 221,
     "timeYear": 237,
     "dailyMinutesDown": {
+      "2023-10-28": 1,
       "2022-11-23": 25,
       "2022-11-04": 176
     }
@@ -111,9 +116,9 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rabbit-mq",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -123,6 +128,7 @@
     "timeMonth": 215,
     "timeYear": 248,
     "dailyMinutesDown": {
+      "2023-10-28": 0,
       "2022-11-23": 17,
       "2022-11-04": 176
     }
