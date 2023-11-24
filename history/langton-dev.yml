@@ -1,7 +1,7 @@
 url: https://langton.dev
-status: up
-code: 200
-responseTime: 322
-lastUpdated: 2023-11-24T23:11:03.153Z
+status: down
+code: 500
+responseTime: 348
+lastUpdated: 2023-11-24T23:19:09.216Z
 startTime: 2020-11-26T16:57:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
