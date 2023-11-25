@@ -6,17 +6,18 @@
     "slug": "langton-dev",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "67.39%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "99.88%",
+    "uptimeDay": "61.10%",
+    "uptimeWeek": "94.44%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "99.86%",
     "time": 305,
     "timeDay": 312,
     "timeWeek": 323,
     "timeMonth": 278,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2023-11-24": 469,
+      "2023-11-25": 50,
+      "2023-11-24": 510,
       "2023-10-28": 159
     }
   },
