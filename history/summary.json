@@ -81,7 +81,7 @@
     "timeMonth": 198,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-03-06": 750,
+      "2024-03-06": 768,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
@@ -192,19 +192,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rabbit-mq",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 237,
-    "timeDay": 174,
-    "timeWeek": 212,
-    "timeMonth": 194,
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.96%",
+    "time": 236,
+    "timeDay": 163,
+    "timeWeek": 204,
+    "timeMonth": 192,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-03-06": 24,
+      "2024-03-06": 42,
       "2023-10-28": 157
     }
   }
