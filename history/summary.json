@@ -11,15 +11,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 307,
-    "timeDay": 351,
-    "timeWeek": 320,
-    "timeMonth": 332,
+    "timeDay": 241,
+    "timeWeek": 321,
+    "timeMonth": 328,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2024-03-06": 24,
       "2023-11-25": 896,
-      "2023-11-24": 510,
-      "2023-10-28": 159
+      "2023-11-24": 510
     }
   },
   {
@@ -34,13 +33,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 297,
-    "timeDay": 390,
-    "timeWeek": 295,
+    "timeDay": 277,
+    "timeWeek": 303,
     "timeMonth": 302,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2024-03-06": 24,
-      "2023-10-28": 159
+      "2024-03-06": 24
     }
   },
   {
@@ -55,13 +53,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 236,
-    "timeDay": 295,
-    "timeWeek": 284,
-    "timeMonth": 249,
-    "timeYear": 231,
+    "timeDay": 267,
+    "timeWeek": 295,
+    "timeMonth": 250,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-03-06": 24,
-      "2023-10-28": 158
+      "2024-03-06": 24
     }
   },
   {
@@ -70,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "75.81%",
+    "uptime": "75.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.16%",
-    "time": 225,
-    "timeDay": 282,
-    "timeWeek": 217,
-    "timeMonth": 233,
+    "uptimeYear": "7.89%",
+    "time": 224,
+    "timeDay": 184,
+    "timeWeek": 219,
+    "timeMonth": 231,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-10-26": 64,
+      "2024-10-27": 71,
+      "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
@@ -417,8 +415,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 76,
-      "2023-10-28": 157
+      "2023-11-25": 76
     }
   },
   {
@@ -433,13 +430,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 211,
-    "timeDay": 338,
-    "timeWeek": 241,
-    "timeMonth": 227,
+    "timeDay": 224,
+    "timeWeek": 246,
+    "timeMonth": 229,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2024-03-06": 42,
-      "2023-10-28": 157
+      "2024-03-06": 42
     }
   }
 ]
