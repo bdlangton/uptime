@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 312,
-    "timeDay": 386,
-    "timeWeek": 328,
-    "timeMonth": 362,
+    "timeDay": 334,
+    "timeWeek": 339,
+    "timeMonth": 359,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2024-03-06": 24,
-      "2023-11-25": 896,
-      "2023-11-24": 510
+      "2023-11-25": 896
     }
   },
   {
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 209,
-    "timeWeek": 241,
-    "timeMonth": 306,
+    "timeDay": 370,
+    "timeWeek": 258,
+    "timeMonth": 308,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -53,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 332,
-    "timeWeek": 240,
+    "timeDay": 281,
+    "timeWeek": 258,
     "timeMonth": 268,
     "timeYear": 235,
     "dailyMinutesDown": {
@@ -67,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "74.40%",
+    "uptime": "74.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.79%",
+    "uptimeYear": "0.52%",
     "time": 221,
-    "timeDay": 315,
-    "timeWeek": 217,
-    "timeMonth": 220,
+    "timeDay": 212,
+    "timeWeek": 210,
+    "timeMonth": 224,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-11-22": 70,
+      "2024-11-23": 67,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -456,9 +456,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 186,
-    "timeWeek": 191,
-    "timeMonth": 222,
+    "timeDay": 350,
+    "timeWeek": 224,
+    "timeMonth": 229,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2024-03-06": 42
