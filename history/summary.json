@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 290,
-    "timeWeek": 290,
-    "timeMonth": 324,
-    "timeYear": 317,
+    "time": 312,
+    "timeDay": 384,
+    "timeWeek": 296,
+    "timeMonth": 325,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2024-03-06": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 278,
-    "timeWeek": 276,
-    "timeMonth": 279,
-    "timeYear": 284,
+    "time": 288,
+    "timeDay": 304,
+    "timeWeek": 249,
+    "timeMonth": 276,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2024-03-06": 24
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 353,
-    "timeWeek": 241,
-    "timeMonth": 252,
+    "timeDay": 184,
+    "timeWeek": 226,
+    "timeMonth": 251,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "73.89%",
+    "uptime": "73.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 221,
-    "timeDay": 377,
-    "timeWeek": 247,
-    "timeMonth": 216,
-    "timeYear": 217,
+    "timeDay": 233,
+    "timeWeek": 241,
+    "timeMonth": 214,
+    "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-12-02": 73,
+      "2024-12-03": 72,
+      "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -439,8 +440,7 @@
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   },
   {
@@ -455,9 +455,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 163,
-    "timeWeek": 173,
-    "timeMonth": 200,
+    "timeDay": 167,
+    "timeWeek": 151,
+    "timeMonth": 198,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2024-03-06": 42
