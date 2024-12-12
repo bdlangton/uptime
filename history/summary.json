@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 294,
-    "timeWeek": 296,
-    "timeMonth": 315,
+    "timeDay": 269,
+    "timeWeek": 298,
+    "timeMonth": 308,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 218,
-    "timeWeek": 256,
-    "timeMonth": 264,
+    "timeDay": 303,
+    "timeWeek": 264,
+    "timeMonth": 263,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 167,
-    "timeWeek": 267,
-    "timeMonth": 249,
+    "timeDay": 330,
+    "timeWeek": 295,
+    "timeMonth": 252,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "73.44%",
+    "uptime": "73.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -73,10 +73,11 @@
     "time": 220,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 231,
+    "timeMonth": 230,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-12-11": 72,
+      "2024-12-12": 72,
+      "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -439,8 +440,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
-      "2023-12-14": 1440,
-      "2023-12-13": 1440
+      "2023-12-14": 1440
     }
   },
   {
@@ -454,11 +454,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 210,
-    "timeDay": 188,
-    "timeWeek": 224,
-    "timeMonth": 201,
-    "timeYear": 211,
+    "time": 211,
+    "timeDay": 447,
+    "timeWeek": 268,
+    "timeMonth": 209,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2024-03-06": 42
     }
