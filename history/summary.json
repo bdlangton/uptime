@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 217,
-    "timeWeek": 346,
-    "timeMonth": 312,
-    "timeYear": 318,
+    "timeDay": 177,
+    "timeWeek": 322,
+    "timeMonth": 307,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2024-03-06": 24
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 314,
-    "timeWeek": 320,
-    "timeMonth": 286,
+    "timeDay": 245,
+    "timeWeek": 310,
+    "timeMonth": 285,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 120,
+    "timeDay": 275,
     "timeWeek": 252,
-    "timeMonth": 248,
+    "timeMonth": 243,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "72.12%",
+    "uptime": "72.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 222,
-    "timeDay": 130,
-    "timeWeek": 255,
-    "timeMonth": 270,
+    "timeDay": 104,
+    "timeWeek": 233,
+    "timeMonth": 260,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-01-07": 66,
+      "2025-01-08": 66,
+      "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -439,8 +440,7 @@
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
-      "2024-01-10": 1440,
-      "2024-01-09": 1440
+      "2024-01-10": 1440
     }
   },
   {
@@ -455,9 +455,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 148,
-    "timeWeek": 244,
-    "timeMonth": 252,
+    "timeDay": 335,
+    "timeWeek": 255,
+    "timeMonth": 249,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2024-03-06": 42
