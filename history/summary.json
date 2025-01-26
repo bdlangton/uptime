@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/langton.dev.ico",
     "slug": "langton-dev",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 484,
-    "timeWeek": 324,
-    "timeMonth": 321,
+    "time": 314,
+    "timeDay": 421,
+    "timeWeek": 352,
+    "timeMonth": 327,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 300,
-    "timeWeek": 316,
-    "timeMonth": 315,
-    "timeYear": 288,
+    "timeDay": 310,
+    "timeWeek": 319,
+    "timeMonth": 317,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2024-03-06": 24
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 218,
-    "timeWeek": 236,
-    "timeMonth": 270,
+    "timeDay": 201,
+    "timeWeek": 238,
+    "timeMonth": 269,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "71.26%",
+    "uptime": "71.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 223,
-    "timeDay": 229,
-    "timeWeek": 234,
-    "timeMonth": 242,
+    "timeDay": 244,
+    "timeWeek": 248,
+    "timeMonth": 244,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-01-25": 61,
+      "2025-01-26": 67,
+      "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -439,8 +440,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   },
   {
@@ -455,10 +455,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 238,
-    "timeWeek": 206,
+    "timeDay": 165,
+    "timeWeek": 204,
     "timeMonth": 236,
-    "timeYear": 216,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2024-03-06": 42
     }
