@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 349,
-    "timeWeek": 405,
-    "timeMonth": 340,
+    "timeDay": 352,
+    "timeWeek": 397,
+    "timeMonth": 339,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 353,
-    "timeWeek": 325,
-    "timeMonth": 317,
+    "timeDay": 349,
+    "timeWeek": 305,
+    "timeMonth": 322,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 306,
-    "timeWeek": 262,
-    "timeMonth": 270,
-    "timeYear": 241,
+    "timeDay": 377,
+    "timeWeek": 249,
+    "timeMonth": 277,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2024-03-06": 24
     }
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "71.07%",
+    "uptime": "71.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 222,
-    "timeDay": 281,
-    "timeWeek": 211,
-    "timeMonth": 242,
-    "timeYear": 227,
+    "timeDay": 282,
+    "timeWeek": 222,
+    "timeMonth": 238,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-01-29": 64,
+      "2025-01-30": 64,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -439,8 +440,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   },
   {
@@ -455,9 +455,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 214,
-    "timeDay": 302,
-    "timeWeek": 236,
-    "timeMonth": 239,
+    "timeDay": 431,
+    "timeWeek": 268,
+    "timeMonth": 242,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2024-03-06": 42
