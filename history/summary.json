@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 415,
-    "timeWeek": 360,
+    "timeDay": 331,
+    "timeWeek": 359,
     "timeMonth": 354,
     "timeYear": 323,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 219,
-    "timeWeek": 289,
-    "timeMonth": 322,
-    "timeYear": 290,
+    "timeDay": 213,
+    "timeWeek": 277,
+    "timeMonth": 316,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2024-03-06": 24
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 248,
-    "timeWeek": 230,
-    "timeMonth": 284,
+    "timeDay": 328,
+    "timeWeek": 237,
+    "timeMonth": 281,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "70.51%",
+    "uptime": "70.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 223,
-    "timeDay": 105,
-    "timeWeek": 207,
-    "timeMonth": 235,
-    "timeYear": 229,
+    "timeDay": 202,
+    "timeWeek": 191,
+    "timeMonth": 231,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-02-10": 67,
+      "2025-02-11": 65,
+      "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -439,8 +440,7 @@
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
-      "2024-02-13": 1440,
-      "2024-02-12": 1440
+      "2024-02-13": 1440
     }
   },
   {
@@ -455,9 +455,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 108,
-    "timeWeek": 235,
-    "timeMonth": 247,
+    "timeDay": 165,
+    "timeWeek": 209,
+    "timeMonth": 243,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2024-03-06": 42
