@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 355,
-    "timeWeek": 368,
-    "timeMonth": 357,
+    "timeDay": 254,
+    "timeWeek": 363,
+    "timeMonth": 353,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 134,
-    "timeWeek": 262,
-    "timeMonth": 321,
+    "timeDay": 281,
+    "timeWeek": 260,
+    "timeMonth": 310,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 410,
-    "timeWeek": 267,
-    "timeMonth": 283,
+    "timeDay": 165,
+    "timeWeek": 253,
+    "timeMonth": 277,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2024-03-06": 24
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "70.38%",
+    "uptime": "70.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 223,
-    "timeDay": 137,
-    "timeWeek": 179,
-    "timeMonth": 232,
+    "timeDay": 105,
+    "timeWeek": 167,
+    "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-02-13": 66,
+      "2025-02-14": 66,
+      "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -439,8 +440,7 @@
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
-      "2024-02-16": 1440,
-      "2024-02-15": 1440
+      "2024-02-16": 1440
     }
   },
   {
@@ -455,9 +455,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 230,
-    "timeWeek": 195,
-    "timeMonth": 250,
+    "timeDay": 107,
+    "timeWeek": 190,
+    "timeMonth": 241,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2024-03-06": 42
