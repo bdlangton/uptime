@@ -7,11 +7,9 @@ sites:
   - name: Langton.dev
     url: https://langton.dev
   - name: Commonplace Books
-    url: https://commonplace.langton.dev
+    url: $SECRET_SITE_6
   - name: Strava App
-    url: https://strava.langton.dev
-  - name: Jenkins
-    url: $SECRET_SITE_1
+    url: $SECRET_SITE_7
   - name: RabbitMQ
     url: $SECRET_SITE_2
 
