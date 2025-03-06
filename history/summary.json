@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 382,
-    "timeWeek": 366,
-    "timeMonth": 365,
-    "timeYear": 326,
-    "dailyMinutesDown": {
-      "2024-03-06": 24
-    }
+    "timeDay": 388,
+    "timeWeek": 374,
+    "timeMonth": 369,
+    "timeYear": 327,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Commonplace Books",
@@ -30,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 395,
-    "timeWeek": 356,
-    "timeMonth": 327,
-    "timeYear": 294,
-    "dailyMinutesDown": {
-      "2024-03-06": 24
-    }
+    "time": 290,
+    "timeDay": 465,
+    "timeWeek": 397,
+    "timeMonth": 333,
+    "timeYear": 295,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Strava App",
@@ -51,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 349,
-    "timeWeek": 290,
-    "timeMonth": 286,
+    "timeDay": 188,
+    "timeWeek": 295,
+    "timeMonth": 285,
     "timeYear": 250,
-    "dailyMinutesDown": {
-      "2024-03-06": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RabbitMQ",
@@ -70,13 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 216,
-    "timeDay": 298,
-    "timeWeek": 246,
+    "time": 217,
+    "timeDay": 179,
+    "timeWeek": 252,
     "timeMonth": 231,
     "timeYear": 220,
-    "dailyMinutesDown": {
-      "2024-03-06": 42
-    }
+    "dailyMinutesDown": {}
   }
 ]
